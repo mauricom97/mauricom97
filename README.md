@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 🖖
 <div align="center">
   <a href="https://github.com/mauricom97"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricom97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,5 +14,6 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
+![Snake animation](https://github.com/mauricom97/mauricom97/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 🔭 I'm currently working with web development using NodeJs -->
